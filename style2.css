@@ -1,0 +1,32 @@
+.container1{
+	background-color: #c9ba9f;
+}
+.container2{
+	background-color: #c9ba9f;
+	width:303px;
+	padding: 15px;
+	margin: auto;
+	box-shadow: 2px 2px 50px rgba(0,0,0, 0.8);
+	border: 2px dashed orange;
+}
+
+#submit{
+	background-color: #e3bb64;
+	color: white;
+}
+
+label{
+	color: #c9ba9f;
+	font-family: fantasy;
+	font-size: 13px;
+	
+}
+id{
+	background-color: #c9ba9f;
+	color: #c9ba9f;
+}
+text{
+	background-color: #c9ba9f;
+	color: #c9ba9f;
+}
+
